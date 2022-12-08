@@ -17,6 +17,9 @@ As a Software engineer I have worked to gain experience with a primary language 
 
 Full Stack Software Engineer | BS Biology, Neuroscience, Music | MM Music Therapy | JavaScript | Python | CSS | HTML | React | Redux | SQL | Flask | Node.js | Express.js | SQLAlchemy | Sequelize | Git | Docker
 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ddb048&theme=omni&custom_title=Languages&langs_count=3)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddb048&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=32)
+
 - 🔭 I’m currently working on refactoring my Spotify clone targetting speed
 - 🌱 I’m currently learning Network Security
 - 💬 Ask me about how Software Engineering can influence the world of Music Therapy
