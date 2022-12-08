@@ -11,15 +11,17 @@ As a Software engineer I have worked to gain experience with a primary language 
 
 Full Stack Software Engineer | BS Biology, Neuroscience, Music | MM Music Therapy | JavaScript | Python | CSS | HTML | React | Redux | SQL | Flask | Node.js | Express.js | SQLAlchemy | Sequelize | Git | Docker
 
-<!--
-**ddb048/ddb048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on refactoring my Spotify clone targetting speed
 - 🌱 I’m currently learning Network Security
 - 💬 Ask me about how Software Engineering can influence the world of Music Therapy
 - 📫 How to reach me: ddb048@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play guitar, piano, violin, cello, or sing to destress and support others.
+
+<!--
+**ddb048/ddb048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 -->
